@@ -1,0 +1,20 @@
+================================================================================
+                         PURCHASE ORDER & SHIPMENT RECEIPT
+================================================================================
+PO Number: PO-TA-2026-9981
+Vendor Name: Apex Heavy Industries Pvt Ltd
+Vendor ID: VEND-88210
+Item Description: Structural Steel Beams (Grade A36)
+Order Quantity: 500 Metric Tons
+Total Contract Value: $120,000 USD
+
+PAYMENT & COMPLIANCE TERMS:
+- Payment Method: 30-day Irrevocable Letter of Credit (LC) at sight upon presentation 
+  of clean shipping documents.
+- Rule Reference: Mandatory compliance with UCP 600 international guidelines.
+
+DELIVERY TIMELINE & OBIZ SCHEDULE:
+- OBIZ Agreed Delivery Date: 2026-08-15
+- Actual Port Clearance Date: 2026-08-28
+- Status: Delivered at Haldia Port
+================================================================================
